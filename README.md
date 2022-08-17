@@ -15,3 +15,15 @@ Simply clone this project. Then you should have a software with Apache and MySQL
 6. Use command GRANT ALL PRIVILEGES ON id2538044_store.items TO 'id2538044_ankur'@'localhost';
 7. Use command GRANT ALL PRIVILEGES ON id2538044_store.users TO 'id2538044_ankur'@'localhost';
 8. Use command GRANT ALL PRIVILEGES ON id2538044_store.users_items TO 'id2538044_ankur'@'localhost';
+
+<b>Screenshots</b>
+
+![image](https://user-images.githubusercontent.com/79756942/185158963-dada2b80-728b-4c08-8fe5-4988fc528255.png)
+
+![image](https://user-images.githubusercontent.com/79756942/185159182-45283a57-cdfa-4008-8442-297a36c290cc.png)
+
+![image](https://user-images.githubusercontent.com/79756942/185159317-7b5e6a9a-50a7-4a93-bcc5-1f6f1cc0a985.png)
+
+![image](https://user-images.githubusercontent.com/79756942/185160553-9a584d82-4cd6-4d01-a6dd-ca072696323f.png)
+
+
