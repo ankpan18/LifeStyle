@@ -24,6 +24,7 @@ Simply clone this project. Then you should have a software with Apache and MySQL
 
 ![image](https://user-images.githubusercontent.com/79756942/185159317-7b5e6a9a-50a7-4a93-bcc5-1f6f1cc0a985.png)
 
-![image](https://user-images.githubusercontent.com/79756942/185160553-9a584d82-4cd6-4d01-a6dd-ca072696323f.png)
+![image](https://user-images.githubusercontent.com/79756942/185161507-dc415f30-8162-4eb5-9913-4e2e979fc866.png)
+
 
 
