@@ -1,4 +1,4 @@
-# LifeStyle
+# Shopping Store
 
 How to use this project?
 
