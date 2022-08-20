@@ -1,5 +1,7 @@
 # Shopping Store
 
+Project Demo- https://shop-store123.herokuapp.com/products.php
+
 How to use this project?
 
 Simply clone this project. Then you should have a software with Apache and MySQL support. We have used Xampp in this case.
@@ -18,7 +20,7 @@ Simply clone this project. Then you should have a software with Apache and MySQL
 
 <b>Screenshots</b>
 
-![image](https://user-images.githubusercontent.com/79756942/185158963-dada2b80-728b-4c08-8fe5-4988fc528255.png)
+![image](https://user-images.githubusercontent.com/79756942/185730250-097c724f-a3bd-443e-bbee-8a6604c0a7ec.png)
 
 ![image](https://user-images.githubusercontent.com/79756942/185159182-45283a57-cdfa-4008-8442-297a36c290cc.png)
 
