@@ -1,6 +1,6 @@
 # Shopping Store
 
-Project Demo- https://shop-store123.herokuapp.com/products.php
+Project Demo- https://shop-store123.herokuapp.com/index.php
 
 How to use this project?
 
